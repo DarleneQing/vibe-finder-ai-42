@@ -52,7 +52,7 @@ const HeroSection = () => {
         >
           <div className="inline-flex items-center gap-2 glass-surface rounded-full px-4 py-2 mb-8">
             <MapPin className="h-4 w-4 text-primary" />
-            <span className="text-sm font-medium text-muted-foreground">Built at START Hack 2025 · Zurich</span>
+            <span className="text-sm font-medium text-muted-foreground">Built at START Hack 2026 · Zurich</span>
           </div>
 
           <h1 className="text-4xl sm:text-5xl font-bold tracking-display leading-[1.1] mb-4">

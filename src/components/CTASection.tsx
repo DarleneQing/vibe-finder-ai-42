@@ -32,7 +32,7 @@ const CTASection = () => {
       {/* Footer */}
       <div className="max-w-lg mx-auto mt-16 text-center">
         <p className="text-xs text-muted-foreground">
-          © 2025 Mapify AI · Built with ♥ at START Hack
+          © 2026 Mapify AI · Built with ♥ at START Hack
         </p>
       </div>
     </section>

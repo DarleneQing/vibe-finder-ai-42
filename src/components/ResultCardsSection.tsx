@@ -77,7 +77,7 @@ const ResultCardsSection = () => {
                   </div>
                 </div>
                 <div className="flex items-center gap-1">
-                  <Star className="h-3.5 w-3.5 fill-yellow-400 text-yellow-400" />
+                  <Star className="h-3.5 w-3.5 fill-star text-star" />
                   <span className="text-sm font-medium text-foreground">{r.rating}</span>
                   <span className="text-xs text-muted-foreground">({r.reviews.toLocaleString()})</span>
                 </div>

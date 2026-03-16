@@ -66,9 +66,7 @@ const PipelineSection = () => {
                   <div
                     className={`h-3 w-3 rounded-full transition-all duration-500 ${
                       isActive
-                        ? step.color === "accent"
-                          ? "bg-accent glow-accent"
-                          : "bg-primary glow-primary"
+                        ? "bg-primary glow-primary"
                         : "bg-muted"
                     }`}
                   />

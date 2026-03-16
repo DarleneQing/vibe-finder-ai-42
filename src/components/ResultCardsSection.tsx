@@ -93,7 +93,7 @@ const ResultCardsSection = () => {
                   {r.vibe}
                 </span>
                 {r.deal && (
-                  <span className="inline-flex items-center gap-1 text-xs border border-accent/30 text-accent px-2.5 py-1 rounded-full">
+                  <span className="inline-flex items-center gap-1 text-xs border border-primary/30 text-primary px-2.5 py-1 rounded-full">
                     <Zap className="h-3 w-3" />
                     {r.deal}
                   </span>

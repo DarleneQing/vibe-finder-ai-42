@@ -39,6 +39,7 @@
     /* Custom tokens */
     --glow-primary: 0 0 30px hsla(220, 80%, 56%, 0.4);
     --glow-accent: 0 0 20px hsla(160, 50%, 45%, 0.3);
+    --star: 45 93% 58%;
     --surface-glass: hsla(0, 0%, 100%, 0.05);
     --border-glass: hsla(0, 0%, 100%, 0.08);
 
